@@ -68,11 +68,6 @@
             <artifactId>commons-lang3</artifactId>
             <version>3.8.1</version>
         </dependency>
-        <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-all</artifactId>
-            <version>4.0.2</version>
-        </dependency>
 
         <!-- alibaba的druid数据库连接池 -->
         <dependency>
